@@ -91,19 +91,27 @@ To add users that can create tickets, navigate to the Agent Panel and click on U
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/xf5HJnI.png" height="80%" width="80%" alt="Configure SLA's"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Service level agreements need to be added which will define when tickets are expected to be closed based on severity of issues. To configure a SLA, navigate to the Admin Panel and click on Manage - SLA - Add New SLA Plan. Let's create three SLA's: SEV-A for emergency issues with an agent response required 24 hours a day/ 7 days a week and grace period of 1 hour, SEV-B for 24 hours/5 days a week and 4 hour grace period, and SEV-C for low priority tickets that need a response only during business hours with an 8 hour grace period.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dk3rVrO.png" height="80%" width="80%" alt="SLA's"/>
+</p>
+
+<p>
+<img src="https://imgur.com/aUIrTRN.png" height="80%" width="80%" alt="Configure Help Topics"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally, we'll create Help Topics which will allow users to choose a category their issue falls under, and this will also help to assign the ticket to the appropriate department. While in the Admin Panel, click on Manage - Help Topic - Add New Help Topic. Name the help topic and configure based on the SLA it falls under. For example, a help topic of "Business Critical Outage" configured with the emergency SEV-A SLA.
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/EyrpHP4.png" height="80%" width="80%" alt="Help Topic SLA"/>
+</p>
 
 
