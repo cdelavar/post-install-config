@@ -59,34 +59,34 @@ Check the boxes for each permission you'd like to grant to the role. Let's give 
 <br />
 
 <p>
-<img src="https://imgur.com/ef8W8qm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ef8W8qm.png" height="80%" width="80%" alt="Configure Departments"/>
 </p>
 <p>
-Since tickets are routed through departments, next up in creating and configuring Departments. While in th Admin Panel, click on Agents - Departments - Add New Department. Let's add a department called "System Administrators".
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Since tickets are routed through departments, next up in creating and configuring Departments. While in th Admin Panel, click on Agents - Departments - Add New Department. Let's add a department called "System Administrators". Configure the settings and then click Create Dept.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Eeys3Ve.png" height="80%" width="80%" alt="Configure Teams"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Teams allow you to pull agents from the departments in order to work on tickets that require the department permissions to be superceded. To create a team, while in the Admin Panel, click on Agents - Teams - Add New Team. OsTicket comes packaged with a default "Level I Support" team. Let's create a new team called "Level II Support". Configure the team settings and click Create Team.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/blKuyZq.png" height="80%" width="80%" alt="Configure Agents"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now let's create the Agents that will be our help desk support professionals that work on the tickets. While in the Admin Panel, click on Agents - Agents - Add New Agent. Enter a name, email, set their password, grant them access and permissions, and assign them to teams. 
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/impc9ew.png" height="80%" width="80%" alt="Configure Users"/>
+</p>
+<p>
+To add users that can create tickets, navigate to the Agent Panel and click on Users - Add User. 
 </p>
 <br />
 
